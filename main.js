@@ -1,8 +1,11 @@
-const fs = require('fs');
-const path = require('path');
+const http = require('http');
 
-function extractFunctions(directoryPath) {
+const server = http.createServer((req, res) => {
   // TODO: Implement this function
-}
+});
 
-module.exports = extractFunctions;
+server.listen(3000, () => {
+  console.log('Server is listening on port 3000');
+});
+
+module.exports = { server };
