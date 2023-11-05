@@ -1,5 +1,5 @@
 {
-  "name": "File-Management-in-Node.js",
+  "name": "Node.js-and-HTTP",
   "version": "1.0.0",
   "description": "Starter package.json template",
   "main": "main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acciojob/File-Management-in-Node.js.git"
+    "url": "git+https://github.com/acciojob/Node.js-and-HTTP.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/acciojob/File-Management-in-Node.js/issues"
+    "url": "https://github.com/acciojob/Node.js-and-HTTP/issues"
   },
-  "homepage": "https://github.com/acciojob/File-Management-in-Node.js#readme",
+  "homepage": "https://github.com/acciojob/Node.js-and-HTTP#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   },
